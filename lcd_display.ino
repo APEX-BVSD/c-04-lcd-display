@@ -37,12 +37,16 @@ void setup() {
 
   // TODO: initialize the 16x2 LCD
 
+  // TODO: Display a short welcome message
+  
 }
 
 void loop() {
-    float temp = dht.readTemperature();
+    float tempCelsius = dht.readTemperature();
     float humidity = dht.readHumidity();
 
+    // TODO: Convert the temperature to Fahrenheit
+  
     // TODO: position cursor at starter of row 1
 
     // TODO: Display temp in Fahrenheit
