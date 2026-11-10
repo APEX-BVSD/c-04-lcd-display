@@ -1,6 +1,6 @@
 /**
- * This is a demo repo for a DHT 11 sensor and LCD output 
- * Jon C - November 2026
+ * This lab repo contains code to display a DHT11 to a 16x2 LCD screen
+ * First Last - Month Year
  */
 
 #include <DHT.h>
