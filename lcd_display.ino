@@ -47,12 +47,12 @@ void loop() {
 
     // TODO: Convert the temperature to Fahrenheit
   
-    // TODO: position cursor at starter of row 1
+    // TODO: position cursor at start of row 1
 
     // TODO: Display temp in Fahrenheit
     // format - Temp: xx.x F
 
-    // TODO: position cursor at starter of row 2
+    // TODO: position cursor at start of row 2
     // format - Humidity: xx.x%
 
     // TODO: wait 5 seconds before updating
